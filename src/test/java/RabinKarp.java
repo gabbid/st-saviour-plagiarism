@@ -1,5 +1,3 @@
-package test.java;
-
 public class RabinKarp {
     final static int a = 256; // Alphabet Size (ASCII)
     final static int b = 101; // A Small Prime -> For Hashing).
